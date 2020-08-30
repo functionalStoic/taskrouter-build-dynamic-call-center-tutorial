@@ -19,6 +19,6 @@
   "homepage": "https://github.com/functionalStoic/taskrouter-build-dynamic-call-center-tutorial#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "node": "^14.8.0"
+    "twilio": "^3.49.0"
   }
 }
