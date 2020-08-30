@@ -1,0 +1,24 @@
+{
+  "name": "taskrouter-build-dynamic-call-center-tutorial",
+  "version": "1.0.0",
+  "description": "## Built withNode.js + Express. [Get Started Here](https://www.twilio.com/docs/taskrouter/tutorials/dynamic-call-center-node-express)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/functionalStoic/taskrouter-build-dynamic-call-center-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/functionalStoic/taskrouter-build-dynamic-call-center-tutorial/issues"
+  },
+  "homepage": "https://github.com/functionalStoic/taskrouter-build-dynamic-call-center-tutorial#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node": "^14.8.0"
+  }
+}
